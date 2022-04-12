@@ -104,7 +104,7 @@ theme: diaspora
 deploy:
 	type: git
 	repo:
-		github: https://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@github.com/luoganzhi/luoganzhi.github.io
+		github: https://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@github.com/luoganzhi/luoganzhi.github.io
 	branch: master
 
 
